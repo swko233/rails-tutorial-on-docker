@@ -266,3 +266,44 @@ unison: started
 [2018-10-20 13:47:45 +0900] Sync Log:  [END] Updating file .git/index
 [2018-10-20 13:47:45 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:47:45.48 on 20 Oct 2018
 [2018-10-20 13:47:45 +0900] Sync Log:  Synchronization complete at 13:47:45  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:48:04 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:48:04.68 on 20 Oct 2018
+[2018-10-20 13:48:04 +0900] Sync Log:  [BGN] Updating file .git/index from /host_sync to /app_sync
+[2018-10-20 13:48:04 +0900] Sync Log:  [END] Updating file .git/index
+[2018-10-20 13:48:04 +0900] Sync Log:  [BGN] Copying .git/objects/2f from /host_sync to /app_sync
+[2018-10-20 13:48:04 +0900] Sync Log:  [END] Copying .git/objects/2f
+[2018-10-20 13:48:04 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:48:04.69 on 20 Oct 2018
+[2018-10-20 13:48:04 +0900] Sync Log:  Synchronization complete at 13:48:04  (2 items transferred, 0 skipped, 0 failed)
+[2018-10-20 13:49:03 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:49:03.68 on 20 Oct 2018
+[2018-10-20 13:49:03 +0900] Sync Log:  [BGN] Updating file .git/COMMIT_EDITMSG from /host_sync to /app_sync
+[2018-10-20 13:49:03 +0900] Sync Log:  [END] Updating file .git/COMMIT_EDITMSG
+[2018-10-20 13:49:03 +0900] Sync Log:  [BGN] Updating file .git/index from /host_sync to /app_sync
+[2018-10-20 13:49:03 +0900] Sync Log:  [END] Updating file .git/index
+[2018-10-20 13:49:03 +0900] Sync Log:  [BGN] Updating file .git/logs/HEAD from /host_sync to /app_sync
+[2018-10-20 13:49:03 +0900] Sync Log:  [END] Updating file .git/logs/HEAD
+[2018-10-20 13:49:03 +0900] Sync Log:  [BGN] Updating file .git/logs/refs/heads/setup from /host_sync to /app_sync
+[2018-10-20 13:49:03 +0900] Sync Log:  [END] Updating file .git/logs/refs/heads/setup
+[2018-10-20 13:49:03 +0900] Sync Log:  [BGN] Copying .git/objects/4a/cbc5ce728522b3723c7141720a55c2d5008b9d from /host_sync to /app_sync
+[2018-10-20 13:49:03 +0900] Sync Log:  [END] Copying .git/objects/4a/cbc5ce728522b3723c7141720a55c2d5008b9d
+[2018-10-20 13:49:03 +0900] Sync Log:  [BGN] Copying .git/objects/d2 from /host_sync to /app_sync
+[2018-10-20 13:49:03 +0900] Sync Log:  [END] Copying .git/objects/d2
+[2018-10-20 13:49:03 +0900] Sync Log:  [BGN] Copying .git/objects/fb/5ea3d7732220a178d1e105d01540915ff222c1 from /host_sync to /app_sync
+[2018-10-20 13:49:03 +0900] Sync Log:  [END] Copying .git/objects/fb/5ea3d7732220a178d1e105d01540915ff222c1
+[2018-10-20 13:49:03 +0900] Sync Log:  [BGN] Updating file .git/refs/heads/setup from /host_sync to /app_sync
+[2018-10-20 13:49:03 +0900] Sync Log:  [END] Updating file .git/refs/heads/setup
+[2018-10-20 13:49:03 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:49:03.71 on 20 Oct 2018
+[2018-10-20 13:49:03 +0900] Sync Log:  Synchronization complete at 13:49:03  (8 items transferred, 0 skipped, 0 failed)
+[2018-10-20 13:49:15 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:49:15.01 on 20 Oct 2018
+[2018-10-20 13:49:15 +0900] Sync Log:  [BGN] Updating file .git/logs/refs/remotes/origin/setup from /host_sync to /app_sync
+[2018-10-20 13:49:15 +0900] Sync Log:  [END] Updating file .git/logs/refs/remotes/origin/setup
+[2018-10-20 13:49:15 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:49:15.01 on 20 Oct 2018
+[2018-10-20 13:49:15 +0900] Sync Log:  Synchronization complete at 13:49:15  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:49:16 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:49:16.04 on 20 Oct 2018
+[2018-10-20 13:49:16 +0900] Sync Log:  [BGN] Updating file .git/refs/remotes/origin/setup from /host_sync to /app_sync
+[2018-10-20 13:49:16 +0900] Sync Log:  [END] Updating file .git/refs/remotes/origin/setup
+[2018-10-20 13:49:16 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:49:16.04 on 20 Oct 2018
+[2018-10-20 13:49:16 +0900] Sync Log:  Synchronization complete at 13:49:16  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:50:37 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:50:36.88 on 20 Oct 2018
+[2018-10-20 13:50:37 +0900] Sync Log:  [BGN] Updating file .git/index from /host_sync to /app_sync
+[2018-10-20 13:50:37 +0900] Sync Log:  [END] Updating file .git/index
+[2018-10-20 13:50:37 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:50:36.88 on 20 Oct 2018
+[2018-10-20 13:50:37 +0900] Sync Log:  Synchronization complete at 13:50:36  (1 item transferred, 0 skipped, 0 failed)
