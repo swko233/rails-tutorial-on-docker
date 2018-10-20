@@ -191,3 +191,41 @@ unison: started
 [2018-10-20 13:36:59 +0900] Sync Log:  [END] Deleting tmp/pids/server.pid
 [2018-10-20 13:36:59 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:36:59.19 on 20 Oct 2018
 [2018-10-20 13:36:59 +0900] Sync Log:  Synchronization complete at 13:36:59  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:37:47 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:37:46.55 on 20 Oct 2018
+[2018-10-20 13:37:47 +0900] Sync Log:  [BGN] Copying .git/objects/8b from /host_sync to /app_sync
+[2018-10-20 13:37:47 +0900] Sync Log:  [END] Copying .git/objects/8b
+[2018-10-20 13:37:47 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:37:46.55 on 20 Oct 2018
+[2018-10-20 13:37:47 +0900] Sync Log:  Synchronization complete at 13:37:46  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:37:48 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:37:47.61 on 20 Oct 2018
+[2018-10-20 13:37:48 +0900] Sync Log:  [BGN] Updating file .git/index from /host_sync to /app_sync
+[2018-10-20 13:37:48 +0900] Sync Log:  [END] Updating file .git/index
+[2018-10-20 13:37:48 +0900] Sync Log:  [BGN] Copying .git/objects/57 from /host_sync to /app_sync
+[2018-10-20 13:37:48 +0900] Sync Log:  [END] Copying .git/objects/57
+[2018-10-20 13:37:48 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:37:47.62 on 20 Oct 2018
+[2018-10-20 13:37:48 +0900] Sync Log:  Synchronization complete at 13:37:47  (2 items transferred, 0 skipped, 0 failed)
+[2018-10-20 13:38:05 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:38:04.76 on 20 Oct 2018
+[2018-10-20 13:38:05 +0900] Sync Log:  [BGN] Updating file .git/COMMIT_EDITMSG from /host_sync to /app_sync
+[2018-10-20 13:38:05 +0900] Sync Log:  [END] Updating file .git/COMMIT_EDITMSG
+[2018-10-20 13:38:05 +0900] Sync Log:  [BGN] Updating file .git/index from /host_sync to /app_sync
+[2018-10-20 13:38:05 +0900] Sync Log:  [END] Updating file .git/index
+[2018-10-20 13:38:05 +0900] Sync Log:  [BGN] Updating file .git/logs/HEAD from /host_sync to /app_sync
+[2018-10-20 13:38:05 +0900] Sync Log:  [END] Updating file .git/logs/HEAD
+[2018-10-20 13:38:05 +0900] Sync Log:  [BGN] Updating file .git/logs/refs/heads/setup from /host_sync to /app_sync
+[2018-10-20 13:38:05 +0900] Sync Log:  [END] Updating file .git/logs/refs/heads/setup
+[2018-10-20 13:38:05 +0900] Sync Log:  [BGN] Copying .git/objects/bc from /host_sync to /app_sync
+[2018-10-20 13:38:05 +0900] Sync Log:  [END] Copying .git/objects/bc
+[2018-10-20 13:38:05 +0900] Sync Log:  [BGN] Copying .git/objects/eb from /host_sync to /app_sync
+[2018-10-20 13:38:05 +0900] Sync Log:  [END] Copying .git/objects/eb
+[2018-10-20 13:38:05 +0900] Sync Log:  [BGN] Copying .git/objects/fe from /host_sync to /app_sync
+[2018-10-20 13:38:05 +0900] Sync Log:  [END] Copying .git/objects/fe
+[2018-10-20 13:38:05 +0900] Sync Log:  [BGN] Updating file .git/refs/heads/setup from /host_sync to /app_sync
+[2018-10-20 13:38:05 +0900] Sync Log:  [END] Updating file .git/refs/heads/setup
+[2018-10-20 13:38:05 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:38:04.79 on 20 Oct 2018
+[2018-10-20 13:38:05 +0900] Sync Log:  Synchronization complete at 13:38:04  (8 items transferred, 0 skipped, 0 failed)
+[2018-10-20 13:38:39 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:38:38.76 on 20 Oct 2018
+[2018-10-20 13:38:39 +0900] Sync Log:  [BGN] Copying .git/logs/refs/remotes/origin/setup from /host_sync to /app_sync
+[2018-10-20 13:38:39 +0900] Sync Log:  [END] Copying .git/logs/refs/remotes/origin/setup
+[2018-10-20 13:38:39 +0900] Sync Log:  [BGN] Copying .git/refs/remotes/origin/setup from /host_sync to /app_sync
+[2018-10-20 13:38:39 +0900] Sync Log:  [END] Copying .git/refs/remotes/origin/setup
+[2018-10-20 13:38:39 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:38:38.77 on 20 Oct 2018
+[2018-10-20 13:38:39 +0900] Sync Log:  Synchronization complete at 13:38:38  (2 items transferred, 0 skipped, 0 failed)
