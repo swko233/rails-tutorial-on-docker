@@ -1,0 +1,16 @@
+version: 2
+jobs:
+  build:
+    machine: true
+    steps:
+    - checkout
+    - run:
+        name: Build
+        command: |
+          docker-compose up -d --build && \
+          docker-compose run app bundle update && \
+          docker-compose run app rails db:reset
+    - run:
+        name: Run RSpec
+        command: |
+          docker-compose run app bundle exec rspec
