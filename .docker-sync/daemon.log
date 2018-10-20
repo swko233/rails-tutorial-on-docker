@@ -1,0 +1,193 @@
+          ok  Starting native_osx for sync app-sync
+          ok  app-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: app-sync
+[2018-10-20 11:57:11 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 11:57:11.03 on 20 Oct 2018
+[2018-10-20 11:57:11 +0900] Sync Log:  [BGN] Copying .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-10-20 11:57:11 +0900] Sync Log:  Failed: The source file /host_sync/.docker-sync/daemon.log
+[2018-10-20 11:57:11 +0900] Sync Log:  has been modified during synchronization.  Transfer aborted.
+[2018-10-20 11:57:11 +0900] Sync Log:  [BGN] Copying .docker-sync/daemon.pid from /host_sync to /app_sync
+[2018-10-20 11:57:11 +0900] Sync Log:  [END] Copying .docker-sync/daemon.pid
+[2018-10-20 11:57:11 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 11:57:11.04 on 20 Oct 2018
+[2018-10-20 11:57:11 +0900] Sync Log:  Synchronization incomplete at 11:57:11  (1 item transferred, 0 skipped, 1 failed)
+[2018-10-20 11:57:11 +0900] Sync Log:    failed: .docker-sync/daemon.log
+[2018-10-20 11:57:12 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 11:57:12.07 on 20 Oct 2018
+[2018-10-20 11:57:12 +0900] Sync Log:  [BGN] Copying .docker-sync/daemon.log from /host_sync to /app_sync
+[2018-10-20 11:57:12 +0900] Sync Log:  [END] Copying .docker-sync/daemon.log
+[2018-10-20 11:57:12 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 11:57:12.07 on 20 Oct 2018
+[2018-10-20 11:57:12 +0900] Sync Log:  Synchronization complete at 11:57:12  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:24:24 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:24:24.11 on 20 Oct 2018
+[2018-10-20 13:24:24 +0900] Sync Log:  [BGN] Updating file docker-compose.yml from /host_sync to /app_sync
+[2018-10-20 13:24:24 +0900] Sync Log:  [END] Updating file docker-compose.yml
+[2018-10-20 13:24:24 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:24:24.11 on 20 Oct 2018
+[2018-10-20 13:24:24 +0900] Sync Log:  Synchronization complete at 13:24:24  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:27:08 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:27:08.15 on 20 Oct 2018
+[2018-10-20 13:27:08 +0900] Sync Log:  [BGN] Copying tmp/pids/server.pid from /host_sync to /app_sync
+[2018-10-20 13:27:08 +0900] Sync Log:  [END] Copying tmp/pids/server.pid
+[2018-10-20 13:27:08 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:27:08.15 on 20 Oct 2018
+[2018-10-20 13:27:08 +0900] Sync Log:  Synchronization complete at 13:27:08  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:27:42 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:27:41.99 on 20 Oct 2018
+[2018-10-20 13:27:42 +0900] Sync Log:  [BGN] Updating file docker-compose.yml from /host_sync to /app_sync
+[2018-10-20 13:27:42 +0900] Sync Log:  [END] Updating file docker-compose.yml
+[2018-10-20 13:27:42 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:27:41.99 on 20 Oct 2018
+[2018-10-20 13:27:42 +0900] Sync Log:  Synchronization complete at 13:27:42  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:27:46 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:27:46.37 on 20 Oct 2018
+[2018-10-20 13:27:46 +0900] Sync Log:  [BGN] Deleting tmp/pids/server.pid from /app_sync
+[2018-10-20 13:27:46 +0900] Sync Log:  [END] Deleting tmp/pids/server.pid
+[2018-10-20 13:27:46 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:27:46.37 on 20 Oct 2018
+[2018-10-20 13:27:46 +0900] Sync Log:  Synchronization complete at 13:27:46  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:33:03 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:33:03.69 on 20 Oct 2018
+[2018-10-20 13:33:03 +0900] Sync Log:  [BGN] Updating file .git/index from /host_sync to /app_sync
+[2018-10-20 13:33:03 +0900] Sync Log:  [END] Updating file .git/index
+[2018-10-20 13:33:03 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:33:03.70 on 20 Oct 2018
+[2018-10-20 13:33:03 +0900] Sync Log:  Synchronization complete at 13:33:03  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:36:34 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:36:34.53 on 20 Oct 2018
+[2018-10-20 13:36:34 +0900] Sync Log:  [BGN] Copying tmp/pids/server.pid from /host_sync to /app_sync
+[2018-10-20 13:36:34 +0900] Sync Log:  [END] Copying tmp/pids/server.pid
+[2018-10-20 13:36:34 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:36:34.53 on 20 Oct 2018
+[2018-10-20 13:36:34 +0900] Sync Log:  Synchronization complete at 13:36:34  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:36:41 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:36:41.59 on 20 Oct 2018
+[2018-10-20 13:36:41 +0900] Sync Log:  [BGN] Updating file log/development.log from /host_sync to /app_sync
+[2018-10-20 13:36:41 +0900] Sync Log:  [END] Updating file log/development.log
+[2018-10-20 13:36:41 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:36:41.60 on 20 Oct 2018
+[2018-10-20 13:36:41 +0900] Sync Log:  Synchronization complete at 13:36:41  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:36:43 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:36:43.63 on 20 Oct 2018
+[2018-10-20 13:36:43 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/00/00isefWAfm6Hp2p1M6F02A02WXYBGEXYBJwUO5DlevU.cache from /host_sync to /app_sync
+[2018-10-20 13:36:43 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/00/00isefWAfm6Hp2p1M6F02A02WXYBGEXYBJwUO5DlevU.cache
+[2018-10-20 13:36:43 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:36:43.65 on 20 Oct 2018
+[2018-10-20 13:36:43 +0900] Sync Log:  Synchronization complete at 13:36:43  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:36:45 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:36:44.98 on 20 Oct 2018
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Updating file log/development.log from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Updating file log/development.log
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/1_/1_XSs5ZmK4aIJqK59q5D8SssWxsfLk52ZjQDTMLeg8w.cache from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/1_/1_XSs5ZmK4aIJqK59q5D8SssWxsfLk52ZjQDTMLeg8w.cache
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/1x/1xUmtgp7RMV4EHG-KzMEIjFiTPgJMRB4Bw95orXWjJ0.cache from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/1x/1xUmtgp7RMV4EHG-KzMEIjFiTPgJMRB4Bw95orXWjJ0.cache
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/2A from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/2A
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/40 from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/40
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/41 from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/41
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/4m from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/4m
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/4o from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/4o
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/5E from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/5E
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/65/65AN2WaBayNE1W0JFO2uCmJ4uW2NWnyqro3pYgJfFds.cache from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/65/65AN2WaBayNE1W0JFO2uCmJ4uW2NWnyqro3pYgJfFds.cache
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/72 from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/72
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/7d from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/7d
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/8c/8czHckhbHO2vf4nWK1-sCHxPn3Y-h81G0n0OowJgWWk.cache from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/8c/8czHckhbHO2vf4nWK1-sCHxPn3Y-h81G0n0OowJgWWk.cache
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/8m from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/8m
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/95 from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/95
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/9h/9hFtjs9uwxelxsu15cXuEyYESbrPTBrtkYLokYQmIH0.cache from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/9h/9hFtjs9uwxelxsu15cXuEyYESbrPTBrtkYLokYQmIH0.cache
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/AX from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/AX
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/Da from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/Da
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/Di from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/Di
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/IE from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/IE
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/IP from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/IP
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/Ia from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/Ia
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/Jx from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/Jx
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/Ma from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/Ma
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/NU from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/NU
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/NX from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/NX
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/O- from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/O-
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/On/Oniob0SrPiybNlwviq3LpBeufzjtfc1LmKyLdXdy20w.cache from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/On/Oniob0SrPiybNlwviq3LpBeufzjtfc1LmKyLdXdy20w.cache
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/Or from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/Or
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/SK from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/SK
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/Se/Sedye_1FPtJ-JqUwaiO-Rt5ZnWXlcDoo85jju4eDLHY.cache from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/Se/Sedye_1FPtJ-JqUwaiO-Rt5ZnWXlcDoo85jju4eDLHY.cache
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/TG from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/TG
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/WO from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/WO
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/XE from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/XE
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/Zj from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/Zj
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/Zs from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/Zs
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/_f from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/_f
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/b3 from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/b3
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/bR from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/bR
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/bb from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/bb
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/dc/dcMXcndh0Upaqoxwc_GECpXGp4N_y9k32lWqXcdcTB0.cache from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/dc/dcMXcndh0Upaqoxwc_GECpXGp4N_y9k32lWqXcdcTB0.cache
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/dk from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/dk
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/gJ/gJa40xVB6JgAsnk209h-kXDNmrMfHIMpa8P14x4sg28.cache from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/gJ/gJa40xVB6JgAsnk209h-kXDNmrMfHIMpa8P14x4sg28.cache
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/gU from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/gU
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/h2 from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/h2
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/ii from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/ii
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/j8 from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/j8
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/ka from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/ka
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/nS/nSmQu03BiCZ3ZcOEQQn6Ii04GKc_c0z9mrGFQMwg16E.cache from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/nS/nSmQu03BiCZ3ZcOEQQn6Ii04GKc_c0z9mrGFQMwg16E.cache
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/qG from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/qG
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/qa from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/qa
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/rR/rRvmkVvasBICs_DG9QnTz89Ai-_RGtyCpMUKbqA8YXc.cache from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/rR/rRvmkVvasBICs_DG9QnTz89Ai-_RGtyCpMUKbqA8YXc.cache
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/rX from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/rX
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/sq from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/sq
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/u- from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/u-
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/w9 from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/w9
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/wx from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/wx
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/x- from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/x-
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/xv/xva_XNwS8HC1tyLxMbpEC-bYq4irVU6Yn0FhIy9octg.cache from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/xv/xva_XNwS8HC1tyLxMbpEC-bYq4irVU6Yn0FhIy9octg.cache
+[2018-10-20 13:36:45 +0900] Sync Log:  [BGN] Copying tmp/cache/assets/sprockets/v3.0/zX from /host_sync to /app_sync
+[2018-10-20 13:36:45 +0900] Sync Log:  [END] Copying tmp/cache/assets/sprockets/v3.0/zX
+[2018-10-20 13:36:45 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:36:45.19 on 20 Oct 2018
+[2018-10-20 13:36:45 +0900] Sync Log:  Synchronization complete at 13:36:45  (60 items transferred, 0 skipped, 0 failed)
+[2018-10-20 13:36:47 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:36:47.28 on 20 Oct 2018
+[2018-10-20 13:36:47 +0900] Sync Log:  [BGN] Updating file log/development.log from /host_sync to /app_sync
+[2018-10-20 13:36:47 +0900] Sync Log:  [END] Updating file log/development.log
+[2018-10-20 13:36:47 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:36:47.29 on 20 Oct 2018
+[2018-10-20 13:36:47 +0900] Sync Log:  Synchronization complete at 13:36:47  (1 item transferred, 0 skipped, 0 failed)
+[2018-10-20 13:36:59 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 13:36:59.19 on 20 Oct 2018
+[2018-10-20 13:36:59 +0900] Sync Log:  [BGN] Deleting tmp/pids/server.pid from /app_sync
+[2018-10-20 13:36:59 +0900] Sync Log:  [END] Deleting tmp/pids/server.pid
+[2018-10-20 13:36:59 +0900] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 13:36:59.19 on 20 Oct 2018
+[2018-10-20 13:36:59 +0900] Sync Log:  Synchronization complete at 13:36:59  (1 item transferred, 0 skipped, 0 failed)
