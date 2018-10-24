@@ -78,3 +78,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'bootstrap-sass'
 # password
 gem 'bcrypt'
+#jquery
+gem 'jquery-rails'
